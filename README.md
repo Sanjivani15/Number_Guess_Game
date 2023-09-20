@@ -1,4 +1,3 @@
-# Number_Guess_Game
 package Game_Number;
 import java.util.Scanner;
 import java.util.Random;
